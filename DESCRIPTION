@@ -69,8 +69,7 @@ Suggests:
     rgeoda (>= 0.0.11.1),
     mipfp,
     Guerry,
-    codingMatrices,
-    testthat (>= 3.0.0)
+    codingMatrices
 URL: https://github.com/r-spatial/spdep/, https://r-spatial.github.io/spdep/
 BugReports: https://github.com/r-spatial/spdep/issues/
 Description: A collection of functions to create spatial weights matrix
